@@ -5,9 +5,14 @@ This repository contains the full open-source release of Spike Dynamics’ AHL l
 ## ✨ Features
 
 Pneumatic and hydraulic linear AHL actuators
+
 Ultra-compact linear motion system
+
 Small weight
+
 Cheap production
+
 Designed for robotics
+
  
 
