@@ -4,7 +4,10 @@ Thank you for your interest in contributing to our open-source AHL linear actuat
 Everyone is welcome — whether you're fixing a typo, proposing a design improvement, or testing the actuators in your own projects.
 
 📂 Repository Structure
+
 /cad – 3D models (.STEP, .STL, .F3D)
+
+/patents - Links to current patents
 
 /electronics – Schematics, layouts, PCB files
 
