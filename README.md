@@ -1,3 +1,5 @@
+![AHL Actuators](images/AHL_actuator_contracted_and_released.png)
+
 # Spike Dynamics AHL Open-Source Linear Actuator
 
 This repository contains the full open-source release of Spike Dynamics’ AHL linear actuator, designed for robotics.
