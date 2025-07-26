@@ -1,4 +1,5 @@
-![AHL Actuators](images/AHL_actuator_contracted_and_released.png)
+<img src="products/AHL-actuators/images/AHL%20actuator%20contracted%20and%20released.png" alt="AHL actuator contracted and released" width="300">
+
 
 # Spike Dynamics AHL Open-Source Linear Actuator
 
